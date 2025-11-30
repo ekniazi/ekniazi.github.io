@@ -1,128 +1,71 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Privacy Policy and Terms of Service</title>
-    <!-- Load Tailwind CSS -->
-    <script src="https://cdn.tailwindcss.com"></script>
-    <!-- Configure Tailwind for Inter font -->
-    <style>
-        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
-        body {
-            font-family: 'Inter', sans-serif;
-            background-color: #f3f4f6;
-        }
-        /* Custom styling for list markers */
-        .legal-list > li::marker {
-            color: #4f46e5; /* Indigo color for visibility */
-            font-weight: bold;
-        }
-    </style>
-</head>
-<body class="p-4 sm:p-8">
+Terms and Conditions for Png To Svg App
 
-    <div class="max-w-5xl mx-auto bg-white p-6 sm:p-12 rounded-xl shadow-2xl border-t-8 border-indigo-600">
-        
-        <!-- Document Header -->
-        <header class="pb-8 border-b border-gray-200 mb-8">
-            <h1 class="text-4xl font-extrabold text-gray-900 mb-2">
-                Legal Documents for [APP_NAME]
-            </h1>
-            <p class="text-lg text-gray-500">
-                Privacy Policy and Terms of Service (TOS)
-            </p>
-            <p class="text-sm text-gray-400 mt-2">
-                Last updated: [DATE_LAST_UPDATED]
-            </p>
-        </header>
+Last Updated: December 1, 2025
 
-        <!-- Privacy Policy Section -->
-        <section class="mb-12 p-6 bg-indigo-50 rounded-lg shadow-inner">
-            <h2 class="text-3xl font-bold text-indigo-700 mb-5 border-b border-indigo-300 pb-2 flex items-center">
-                <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 mr-3" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 15v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2zm10-10V7a4 4 0 00-8 0v4h8z" />
-                </svg>
-                1. Privacy Policy
-            </h2>
-            <p class="text-gray-700 mb-4 leading-relaxed">
-                Your privacy is a priority. This policy outlines how <strong class="text-indigo-600">[APP_NAME]</strong> (the "Service") handles information. By using the Service, you agree to the terms herein.
-            </p>
+Please read these Terms and Conditions ("Terms", "Terms and Conditions") carefully before using the Png To Svg mobile application (the "Service") operated by [Your Company Name/Your Name] ("us", "we", or "our").
 
-            <h3 class="text-xl font-semibold text-gray-700 mt-6 mb-3">
-                1.1. Information We Collect
-            </h3>
-            <p class="text-gray-600 mb-4">
-                We focus on collecting non-personal data necessary for operating and improving the application.
-            </p>
-            <ul class="list-disc pl-6 space-y-2 text-gray-600 legal-list">
-                <li><strong class="text-gray-800">No Personal Data:</strong> We generally do not collect personally identifiable information (like name, email, or address) unless you voluntarily contact us for support.</li>
-                <li><strong class="text-gray-800">Usage Data:</strong> We collect non-personal information related to how you use the app (e.g., features used, device type, crash reports) to improve performance and stability.</li>
-                <li><strong class="text-gray-800">Sensitive User Content:</strong> If the app involves processing user content (e.g., photos, files), that content is handled securely and is <strong class="text-red-600">automatically deleted</strong> from our servers immediately after processing. We <strong class="text-red-600">do not store</strong> user files long-term.</li>
-            </ul>
+By accessing or using the Service, you agree to be bound by these Terms. If you disagree with any part of the terms, then you may not access the Service.
 
-            <h3 class="text-xl font-semibold text-gray-700 mt-6 mb-3">
-                1.2. Disclosure and Third Parties
-            </h3>
-            <p class="text-gray-600 leading-relaxed">
-                We do not sell your data. We only share information with third-party service providers (like cloud hosting or analytics) strictly necessary to operate the Service. These providers are bound to confidentiality. We may disclose data if required by law.
-            </p>
-        </section>
+1. The Service
 
-        <!-- Terms and Conditions Section -->
-        <section class="mb-12 p-6 bg-gray-50 rounded-lg shadow-inner">
-            <h2 class="text-3xl font-bold text-gray-800 mb-5 border-b border-gray-300 pb-2 flex items-center">
-                <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 mr-3" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
-                </svg>
-                2. Terms and Conditions (TOS)
-            </h2>
-            <p class="text-gray-700 mb-4 leading-relaxed">
-                These Terms govern your use of the Service provided by <strong class="text-gray-800">[COMPANY_NAME]</strong>. By using the Service, you agree to these Terms.
-            </p>
+The Png To Svg application is designed to convert image files (specifically PNG format) uploaded by the user into Scalable Vector Graphics (SVG) format.
 
-            <h3 class="text-xl font-semibold text-gray-700 mt-6 mb-3">
-                2.1. Licensing and Use
-            </h3>
-            <p class="text-gray-600 mb-4">
-                We grant you a limited, non-exclusive, non-transferable, and revocable license to use the Service for your personal, non-commercial use, subject to these Terms. You agree not to misuse the Service or attempt to copy or reverse-engineer the underlying technology.
-            </p>
+2. User Content & Ownership
 
-            <h3 class="text-xl font-semibold text-gray-700 mt-6 mb-3">
-                2.2. In-App Purchases and Subscriptions
-            </h3>
-            <p class="text-gray-600 mb-4 leading-relaxed">
-                The Service may offer subscriptions or one-time purchases ("IAPs"). By making an IAP, you agree to pay the specified fees.
-            </p>
-            <ul class="list-disc pl-6 space-y-2 text-gray-600 legal-list">
-                <li><strong class="text-gray-800">Billing:</strong> Subscriptions are billed in advance on a recurring basis (e.g., monthly, annually).</li>
-                <li><strong class="text-gray-800">Auto-Renewal:</strong> Subscriptions automatically renew unless cancelled at least 24 hours before the end of the current period.</li>
-                <li><strong class="text-gray-800">Payment Processing:</strong> All IAPs and subscription management are handled entirely by the respective App Store (e.g., Apple App Store, Google Play Store). We do not collect or store your payment details.</li>
-                <li><strong class="text-gray-800">Cancellations & Refunds:</strong> You must manage cancellations through your App Store account settings. Refunds are handled by the App Store and are subject to their specific policies. We cannot issue direct refunds.</li>
-            </ul>
+2.1 Ownership of Content
 
-            <h3 class="text-xl font-semibold text-gray-700 mt-6 mb-3">
-                2.3. Termination and Disclaimer
-            </h3>
-            <p class="text-gray-600 leading-relaxed">
-                We may suspend or terminate your access for any breach of these Terms. The Service is provided "as is," without warranties of any kind. We are not liable for indirect or consequential damages arising from your use of the Service.
-            </p>
+You retain all rights to the PNG files and the resulting SVG files (collectively, "User Content") that you upload, convert, or otherwise transmit through the Service. We claim no ownership over your User Content.
 
-            <div class="mt-8 p-4 bg-red-100 rounded-lg border border-red-300">
-                <p class="text-sm text-red-700 font-medium text-center">
-                    <strong class="text-red-800">ATTENTION:</strong> This document is a template. You MUST replace all bracketed placeholders (e.g., <span class="font-mono bg-red-200 px-1 rounded">[APP_NAME]</span>, <span class="font-mono bg-red-200 px-1 rounded">[COMPANY_NAME]</span>) before deployment. Consult legal counsel for professional advice.
-                </p>
-            </div>
-        </section>
+2.2 Limited License to Us
 
-        <!-- Footer Contact Info -->
-        <footer class="pt-6 border-t border-gray-200 mt-8 text-center">
-            <p class="text-sm text-gray-500">
-                For questions regarding this document, please contact us at: <a href="mailto:[SUPPORT_EMAIL]" class="text-indigo-600 hover:text-indigo-800 font-medium">[SUPPORT_EMAIL]</a>
-            </p>
-        </footer>
+By using the Service, you grant us a limited, non-exclusive, non-transferable, royalty-free, worldwide license to use your User Content solely for the purpose of operating, providing, and improving the Service (e.g., uploading the PNG file, processing it on our servers, and returning the SVG file to you).
 
-    </div>
+2.3 Data Retention
 
-</body>
-</html>
+All User Content (your uploaded PNG file and the converted SVG file) is automatically and permanently deleted from our servers immediately after the conversion process is complete and the resulting SVG file is delivered to you, or if the conversion is canceled. We do not store your files long-term.
+
+2.4 Legal Use
+
+You warrant that you own or have the necessary licenses, rights, consents, and permissions to use and authorize us to use all User Content as necessary to exercise the licenses granted by you in these Terms. You agree not to upload any content that is illegal, defamatory, infringes on any intellectual property rights, or violates any third-party rights.
+
+3. Subscription and Payments
+
+3.1 Paid Subscription
+
+The Service may be available on a subscription basis (“Subscription(s)”). Subscriptions grant you access to premium features for a pre-paid period.
+
+3.2 Billing and Renewal
+
+Subscriptions will be billed in advance on a recurring and periodic basis (such as monthly or annually), as described when you sign up. At the end of each period, your Subscription will automatically renew under the exact same conditions unless you cancel it or we cancel it.
+
+3.3 Cancellations and Refunds
+
+You may cancel your Subscription renewal through your App Store account settings. Refunds are handled by the App Store and are subject to their specific refund policies. We cannot issue refunds directly.
+
+4. Termination
+
+We may terminate or suspend your access to the Service immediately, without prior notice or liability, for any reason whatsoever, including without limitation if you breach the Terms.
+
+5. Limitation of Liability
+
+In no event shall [Your Company Name/Your Name], nor its directors, employees, partners, agents, suppliers, or affiliates, be liable for any indirect, incidental, special, consequential or punitive damages, including without limitation, loss of profits, data, use, goodwill, or other intangible losses, resulting from (i) your access to or use of or inability to access or use the Service; (ii) any conduct or content of any third party on the Service; (iii) any content obtained from the Service; and (iv) unauthorized access, use or alteration of your transmissions or content, whether based on warranty, contract, tort (including negligence) or any other legal theory, whether or not we have been informed of the possibility of such damage.
+
+6. Disclaimer
+
+Your use of the Service is at your sole risk. The Service is provided on an "AS IS" and "AS AVAILABLE" basis. The Service is provided without warranties of any kind, whether express or implied, including, but not limited to, implied warranties of merchantability, fitness for a particular purpose, non-infringement or course of performance.
+
+7. Governing Law
+
+These Terms shall be governed and construed in accordance with the laws of [Your State/Country], without regard to its conflict of law provisions.
+
+8. Changes
+
+We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material, we will try to provide at least 30 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.
+
+9. Contact Us
+
+If you have any questions about these Terms, please contact us at:
+
+Email: [Your Email Address]
+
+Website/Support URL: [Your Support URL]
